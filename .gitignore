@@ -1,6 +1,3 @@
 /.git
-/Test_ListView
 .gitattributes
-.fitignore
-ListView.png
-README.md
+.gitignore
