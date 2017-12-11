@@ -1,9 +1,6 @@
-*.iml
-.gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
-.DS_Store
-/build
-/captures
-.externalNativeBuild
+/.git
+/Test_ListView
+.gitattributes
+.fitignore
+ListView.png
+README.md
